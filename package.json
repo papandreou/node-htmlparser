@@ -1,12 +1,12 @@
 {
-	  "name": "htmlparser"
+	  "name": "htmlparser-papandreou"
 	, "description": "Forgiving HTML/XML/RSS Parser in JS for *both* Node and Browsers"
-	, "version": "1.7.6"
+	, "version": "1.7.6-patch1"
 	, "author": "Chris Winberry <chris@winberry.net>"
 	, "contributors": []
 	, "repository": {
 		  "type": "git"
-		, "url": "https://github.com/tautologistics/node-htmlparser"
+		, "url": "https://github.com/papandreou/node-htmlparser"
 	}
 	, "keywords" : [
 		  "html"
@@ -18,11 +18,7 @@
 		"lib": "./lib"
 	}
 	, "main": "./lib/htmlparser.js"
-	, "homepage": "http://github.com/tautologistics/node-htmlparser"
-	, "bugs": {
-		  "mail": "chris@winberry.net"
-		, "url": "http://github.com/tautologistics/node-htmlparser/issues"
-	}
+	, "homepage": "http://github.com/papandreou/node-htmlparser"
 	, "directories": { "lib": "./lib/" }
 	, "main": "./lib/htmlparser"
 	, "engines": { "node": ">=0.1.33" }
